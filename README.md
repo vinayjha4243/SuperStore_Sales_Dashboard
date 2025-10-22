@@ -68,7 +68,8 @@ Forecasting Visuals: Predict future sales trends using time series analysis.
 🧠 Data-Driven Decisions: Enable strategic decisions through interactive insights.
 
 
-📸 6. ScreenShots: Show how our Dashboard lools like:-
+📸 6. ScreenShots: Show how our Dashboard and Sales Forecasting lools like:-
    Dashboard preview:-![image alt](https://github.com/vinayjha4243/SuperStore_Sales_Dashboard/blob/main/SnapShot%20SuperStore%20_Dashboard.png?raw=true)
+   Forecasting preview:-![image alt](https://github.com/vinayjha4243/SuperStore_Sales_Dashboard/blob/main/SnapShot%20SuperStore_Sales_Forecasting.png?raw=true)
 
 
