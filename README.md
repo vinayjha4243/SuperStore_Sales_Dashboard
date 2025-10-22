@@ -67,7 +67,8 @@ Forecasting Visuals: Predict future sales trends using time series analysis.
 
 🧠 Data-Driven Decisions: Enable strategic decisions through interactive insights.
 
-6. ScreenShots: Show how our Dashboard lools like:-
+
+📸 6. ScreenShots: Show how our Dashboard lools like:-
    Dashboard preview()
 
 
