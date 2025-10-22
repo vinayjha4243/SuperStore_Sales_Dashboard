@@ -69,6 +69,6 @@ Forecasting Visuals: Predict future sales trends using time series analysis.
 
 
 📸 6. ScreenShots: Show how our Dashboard lools like:-
-   Dashboard preview:-![image alt]()
+   Dashboard preview:-![image alt](https://github.com/vinayjha4243/SuperStore_Sales_Dashboard/blob/main/SnapShot%20SuperStore%20_Dashboard.png?raw=true)
 
 
